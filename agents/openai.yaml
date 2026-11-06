@@ -1,0 +1,6 @@
+interface:
+  display_name: "Перечерчивание эскизов"
+  short_description: "Чёрно-белые чертежи с размерами и выбором ракурса"
+  default_prompt: "Используй $technical-redraw: уточни ракурс и перечерти мой эскиз в минималистичном чёрно-белом стиле с размерами."
+policy:
+  allow_implicit_invocation: true
